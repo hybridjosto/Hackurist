@@ -16,7 +16,6 @@ call(["say", phrase])
 end = time() - start
 end = end - 6
 
-print end
 beeps = range(3)
 
 if end <1:
